@@ -1,0 +1,16 @@
+{
+  "name": "cod-discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that posts COD Mobile news from Twitter and official site.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "rss-parser": "^3.12.0",
+    "twitter-api-v2": "^1.18.6",
+    "node-fetch": "^2.6.11",
+    "dotenv": "^16.4.5"
+  }
+}
