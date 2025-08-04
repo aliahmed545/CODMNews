@@ -15,7 +15,7 @@ const client = new Client({
 });
 
 // متغير لتخزين معرف قناة الأخبار (غيرّه برقم القناة عندك)
-const CHANNEL_ID = 'اكتب_هنا_رقم_القناة';
+const CHANNEL_ID = '1401870304329994265';
 
 // إنشاء محلل RSS
 const parser = new Parser();
